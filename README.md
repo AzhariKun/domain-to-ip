@@ -2,6 +2,6 @@
 Reverse Domain To IP
 
 * Custom Thread
-* Auto Remove Duplicate
+* Auto Remove Duplicate<br>
 • python2 reverse.py
 <img src="https://github.com/AzhariKun/domain-to-ip/blob/main/dom.jpg">
